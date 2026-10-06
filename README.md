@@ -1,6 +1,6 @@
 # E-commerce Analysis with SQL
 
-**[English](#english) 
+**[English](#english)**
 
 **Google BigQuery · Google Analytics Sample · 10 analytical questions**
 
